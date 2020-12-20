@@ -1,6 +1,8 @@
 # pneumonia-classification
 
-![](images/pneumonia.png)
+<p align="center">
+  <img src="https://github.com/byunsy/pneumonia-classification/blob/main/images/pneumonia.png" alt="image"/>
+</p>
 
 ## Description
 
