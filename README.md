@@ -1,5 +1,7 @@
 # pneumonia-classification
 
+![](images/pneumonia.png)
+
 ## Description
 
 Pneumonia-classification is a jupyter notebook that utilizes CNN (Convolutional Neural Network) to accurately determine the existence of pneumonia using patient chest x-ray images. By creating a CNN model and training it with over **4,185 medical images**, I was able to build a model that achieved **92% accuracy rate**. To process large sets of high quality images efficiently, I decided to use Google Colab, which allowed me to utilize its GPUs and memory space. The dataset used for this notebook was acquired from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
